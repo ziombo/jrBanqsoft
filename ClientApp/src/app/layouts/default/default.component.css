@@ -1,0 +1,10 @@
+
+#page-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#routed-content {
+  flex: 1;
+}

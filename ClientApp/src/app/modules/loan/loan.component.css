@@ -1,0 +1,16 @@
+.mat-header-cell{
+  padding-right: 24px;
+}
+
+#loan-schedule{
+  padding-top: 1.25em;
+}
+
+.info-label, .info-span{
+  display: block;
+}
+
+.info-span {
+  font-weight: bold;
+
+}
